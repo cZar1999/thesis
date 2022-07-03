@@ -20,7 +20,7 @@ import tensorflow.keras.backend as K
 from sklearn.metrics import roc_auc_score
 
 
-class SphereTCN:
+class TCNASVDD:
     """
     ############################################################
     # TCN-Autoencoding Support Vector Machine Data Description #
